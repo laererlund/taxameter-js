@@ -4,7 +4,7 @@
 ### Opgave 1
 KroneTaxa skal have udviklet et nyt stykke software til at beregne prisen på en taxa tur, og har bedt dig om hjælp. De har allerede et gammelt system til at vise data'en og interagere med systemet - altså skal de bare have hjælp til en lille del af systemet.
 
-Deres prismodel er rimelig simpel: 8,50 kr/km + 0,061 kr/sek + 39 kr
+Deres prismodel er rimelig simpel: 8,50 kr/km + 6,25 kr/min + 39 kr
 
 Implementér (dvs. færdiggør, udfyld de tomme funktioner) klassen Taxameter.js, herunder KroneTaxas prismodel.
 
@@ -21,7 +21,7 @@ Lav filerne city-bilen.js og city-bilen.html, og lav Taxameter.js om så den kan
 
 
 ### Opgave 4
-KroneTaxas vil gerne være mere konkurrencedygtige på korte ture med normale vogn, og vil gerne ændre deres km pris til:
+KroneTaxa vil gerne være mere konkurrencedygtige på korte ture med normale vogn, og vil gerne ændre deres km pris til:
 5 kr for den første km, derefter 9 kr/km.
 
 Lav de nødvendige ændringer i krone-taxa.js
